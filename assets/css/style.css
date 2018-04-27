@@ -222,12 +222,12 @@ footer {
 @media screen and (max-width: 640px) {
 
     .header {
-        overflow: auto;
+        overflow: visible;
     }
 
    .menu {
        width: 100%;
-       overflow: auto;
+       overflow: visible;
        height: 150px;
    }
 
@@ -255,12 +255,12 @@ footer {
 
 @media screen and (max-width: 768px) {
     .header {
-        overflow: auto;
+        overflow: visible;
     }
 
    .menu {
        width: 100%;
-       overflow: auto;
+       overflow: visible;
        height: 150px;
    }
 
@@ -291,12 +291,12 @@ footer {
 
 @media screen and (max-width: 980px) {
     .header {
-        overflow: auto;
+        overflow: visible;
     }
 
    .menu {
        width: 100%;
-       overflow: auto;
+       overflow: visible;
        height: 150px;
    }
 
